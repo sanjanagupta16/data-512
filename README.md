@@ -1,2 +1,2 @@
 # data-512
-For Data 512 - Human Centered Design at UW
+For Data 512 - Human Centered Design course at the University of Washington.
