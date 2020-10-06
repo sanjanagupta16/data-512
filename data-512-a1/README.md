@@ -15,7 +15,7 @@ Data is available under the [Creative Commons Attribution-ShareAlike License](ht
 
 ## Output
 
-The csv file generated after combining both data sources has the following columns:
+The [csv file](en-wikipedia_traffic_200801-202008.csv) generated after combining both data sources has the following columns:
 
 | Column                  | Description                                                                     |
 |-------------------------|---------------------------------------------------------------------------------|
