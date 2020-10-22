@@ -19,7 +19,8 @@ For the purpose of this explatory analysis, the datasets used are:
 
 ## Output
 
-To answer the research questions, exploratory analysis was performed. Each of these visualizations can be found in the output folder.
+To answer the research questions, exploratory analysis was performed. This can be found in the Jupyter notebook 'A2_Bias_in_Data.ipynb'.
+Each of these visualizations can be found in the 'output' folder.
 
 
 ## Packages
