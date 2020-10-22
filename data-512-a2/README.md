@@ -8,6 +8,7 @@ The purpose is to identify potential sources of bias in a corpus of human-annota
 ## Data
 
 Source data for Aggression and Toxicity in Wikipedia Talk project can be found on [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731) and the schema can be found [here](https://meta.wikimedia.org/wiki/Research:Detox/Data_Release).
+
 For an overview of the project, please refer the [Conversation AI](https://conversationai.github.io/) website.
 
 For the purpose of this explatory analysis, the datasets used are:
